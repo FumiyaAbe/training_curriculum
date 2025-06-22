@@ -19,7 +19,7 @@ default: &default
 
 development:
   <<: *default
-  database: training_curriculum_rails7_development
+  database: training_curriculum
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
